@@ -43,8 +43,8 @@ body {
   width: calc(100vw + 60px);
   height: calc(100vh + 60px);
   z-index: -1;
-  -webkit-filter: blur(20px);
-          filter: blur(20px);
+  -webkit-filter: blur(0px);
+          filter: blur(0px);
 }
 
 .loadingText {
